@@ -58,7 +58,7 @@ The application uses SQLite for data storage:
 
 ## Deployment
 
-See the CloudFormation deployment instructions in the `TodoApp_Final_CloudFormation` directory for detailed deployment steps.
+See the CloudFormation deployment instructions in the `todoapp-cloudformation` repository for detailed deployment steps.
 
 ## Configuration
 
